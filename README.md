@@ -3,9 +3,9 @@
 Este projeto é uma **API REST desenvolvida em ASP.NET Core Minimal API**, criada como parte do desafio da DIO.  
 O objetivo é demonstrar na prática conceitos modernos de desenvolvimento backend, incluindo:
 
-- 🔑 **Autenticação e Autorização com JWT.**  
-- 🗄 **Integração com MySQL.**
-- 📖 **Documentação automática com Swagger/OpenAPI.**  
+- **Autenticação e Autorização com JWT.**  
+- **Integração com MySQL.**
+- **Documentação automática com Swagger/OpenAPI.**  
 
 ### Funcionalidades principais
 - **Administradores**  
